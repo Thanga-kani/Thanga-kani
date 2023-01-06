@@ -14,12 +14,12 @@
 class goldenFruit extends me = {
   this.pronouns: "she" | "her",
   this.code: ["React js", "Java", "HTML", "CSS", "SQL"],
-  this.tools: ["Visula studio code", "Eclipse", "Mysql workbench", "Postman" ],
+  this.tools: ["Visula studio code", "Eclipse", "Mysql workbench", "Git hub", "Postman" ],
   this.key responsibilities: [
                         React: "Developed the frond-end UI using HTML, JavaScript, CSS, and React",
-                        java: "Experience in the design and development of web-based server-side applications using Java Servlets, JDBC, 
+                        Java: "Experience in the design and development of web-based server-side applications using Java Servlets, JDBC, 
                         and Java-API and Spring boot Framework.",
-                        SQl: "Developing scripts, procedures and triggers for application development,
+                        SQL: "Developing scripts, procedures and triggers for application development,
                         Maintaining data quality and backups and overseeing database security"
                       ],
 }
