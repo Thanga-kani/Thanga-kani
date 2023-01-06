@@ -4,7 +4,7 @@
 </em></p>
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
-[![Linkedin: thangakani](https://img.shields.io/badge/-thanga-kani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanga-kani/)](https://www.linkedin.com/in/thanga-kani-4781241b4/)
+[![Linkedin: thangakani](https://img.shields.io/badge/-thangakani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thangakani/)](https://www.linkedin.com/in/thanga-kani-4781241b4/)
 <!-- [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane) -->
 
 
