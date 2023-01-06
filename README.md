@@ -11,7 +11,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-class goldenFruit extends me = {
+class goldenFruit extends me {
+ constructor() {
   this.pronouns: "she" | "her",
   this.code: ["React js", "Java", "HTML", "CSS", "SQL"],
   this.tools: ["Visula studio code", "Eclipse", "Mysql workbench", "Git hub", "Postman" ],
@@ -22,6 +23,7 @@ class goldenFruit extends me = {
                         SQL: "Developing scripts, procedures and triggers for application development,
                         Maintaining data quality and backups and overseeing database security"
                       ],
+  }
 }
 ```
 
