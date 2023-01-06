@@ -11,17 +11,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const goldenFruit = {
-  pronouns: "she" | "her",
-  code: [React js, Java, HTML, CSS, SQL],
-  tools: [React, Eclipse, Mysql workbench, Postman ],
-  key responsibilities: {
+class goldenFruit extends me = {
+  this.pronouns: "she" | "her",
+  this.code: ["React js", "Java", "HTML", "CSS", "SQL"],
+  this.tools: ["Visula studio code", "Eclipse", "Mysql workbench", "Postman" ],
+  this.key responsibilities: [
                         React: "Developed the frond-end UI using HTML, JavaScript, CSS, and React",
                         java: "Experience in the design and development of web-based server-side applications using Java Servlets, JDBC, 
                         and Java-API and Spring boot Framework.",
                         SQl: "Developing scripts, procedures and triggers for application development,
                         Maintaining data quality and backups and overseeing database security"
-                      },
+                      ],
 }
 ```
 
