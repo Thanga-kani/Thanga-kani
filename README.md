@@ -29,7 +29,7 @@ class goldenFruit extends me {
 
 ## 📊 My Github Stats
 
-  [![Thangakani's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangakani&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/thangakani/github-readme-stats)
+  [![Thangakani's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanga-kani&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/thanga-kani/github-readme-stats)
   
 <!--   ## ✨ Top Languages Card
 
