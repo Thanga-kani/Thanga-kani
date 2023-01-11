@@ -2,6 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <img align="right" src="https://komarev.com/ghpvc/?username=thanga-kani&style=flat-square&color=blueviolet">
 <p><em>Software developer at <a href="http://www.unb.br">Chaosology Technologies Pvt Ltd</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
+"---Always Work Hard and Trust the Process---"<br><br>
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
 [![Linkedin: thangakani](https://img.shields.io/badge/-thangakani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thangakani/)](https://www.linkedin.com/in/thanga-kani-4781241b4/)
