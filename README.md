@@ -1,6 +1,6 @@
 <h2> Hi, I'm Thanga kani! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <img align="right" src="https://komarev.com/ghpvc/?username=thanga-kani&style=flat-square&color=blueviolet">
-<p><em>Software developer at <a href="https://www.chaosology.com/">Chaosology Technologies Pvt Ltd</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software developer at <a href="https://www.chaosology.com/" target="_blank">Chaosology Technologies Pvt Ltd</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 "---Always Work Hard and Trust the Process---"<br><br>
 
